@@ -1,0 +1,1 @@
+if(!window.Squarespace){alert("Not a Squarespace website")}else if(window.Squarespace.Constants){alert("Squarespace 5 website")}else{Y.Get.js("//code-snippets.squarespace.com/scripts/site-info.js")};
